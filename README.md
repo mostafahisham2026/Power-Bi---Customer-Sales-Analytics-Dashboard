@@ -20,7 +20,7 @@ The dashboard helps management understand sales trends, customer profitability, 
 
 # 📊 Dashboard Features
 
-## 1️⃣ Customer Sales Analysis
+## 1️⃣ 1.Customer Sales Analysis
 
 - Interactive customer sales performance analysis.
 - Dynamic slicers for:
@@ -35,7 +35,7 @@ The dashboard helps management understand sales trends, customer profitability, 
 - Customer performance evaluation.
 - Interactive tooltips for additional insights.
 
-## 2️⃣ Customer Details (Drill-through Analysis)
+## 2️⃣ 2.Customer Details (Drill-through Analysis)
 
 - Detailed customer-level analysis.
 - Drill-through functionality from customer analysis page.
@@ -46,13 +46,13 @@ The dashboard helps management understand sales trends, customer profitability, 
   - Invoice Count
   - Average Invoice Value
 
-## 3️⃣ Salesperson Details
+## 3️⃣ 3.SalesPerson Details
 
 - Salesperson performance analysis.
 - Sales contribution evaluation.
 - Individual salesperson insights.
 
-## 4️⃣ Advanced KPI Dashboard
+## 4️⃣ 4.Advanced KPIs Dashboard
 
 Key performance indicators:
 
