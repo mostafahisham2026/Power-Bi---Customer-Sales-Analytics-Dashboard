@@ -52,7 +52,7 @@ The dashboard helps management understand sales trends, customer profitability, 
 - Sales contribution evaluation.
 - Individual salesperson insights.
 
-## 4.Advanced KPIs Dashboard.jpg
+![4.Advanced KPIs Dashboard](4.Advanced KPIs Dashboard.jpg).
 
 Key performance indicators:
 
