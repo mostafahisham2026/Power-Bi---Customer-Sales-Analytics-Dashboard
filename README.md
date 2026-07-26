@@ -93,20 +93,20 @@ Included:
 
 # 📸 Dashboard Preview
 
-### Customer Sales Analysis
+### Customer-Sales-Analysis
 
 ![1.Customer-Sales-Analysis](1.Customer-Sales-Analysis.jpg).
 
-### Customer Details
+### Customer-Details-(Drill-through-Analysis)
 
 ![2.Customer-Details-(Drill-through-Analysis](2.Customer-Details-(Drill-through-Analysis).jpg)
 
 
-### Salesperson Details
+### Salesperson-Details
 
 ![3.SalesPerson-Details](3.SalesPerson-Details.jpg)
 
-### Advanced KPI Dashboard
+### Advanced-KPIs-Dashboard
 
 ![4.Advanced-KPIs-Dashboard](4.Advanced-KPIs-Dashboard.jpg).
 
