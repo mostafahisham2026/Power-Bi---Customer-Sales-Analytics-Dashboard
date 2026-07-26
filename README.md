@@ -110,9 +110,11 @@ Included:
 
 ![4.Advanced-KPIs-Dashboard](4.Advanced-KPIs-Dashboard.jpg).
 
-# 🎬 Project Demo Video
+## 🎬 Project Demo Video
 
-Power BI Customer Sales Analytics Dashboard Demo
+Watch the full Power BI dashboard demonstration:
+
+[▶️ View Dashboard Demo Video](PowerBI_Customer_Sales_Analytics_Dashboard_Demo.mp4)
 
 # 💡 Key Insights
 
