@@ -20,7 +20,7 @@ The dashboard helps management understand sales trends, customer profitability, 
 
 # 📊 Dashboard Features
 
-![1.Customer-Sales-Analysis](1.Customer Sales Analysis.jpg).
+![1.Customer-Sales-Analysis](1.Customer-Sales-Analysis.jpg).
 
 - Interactive customer sales performance analysis.
 - Dynamic slicers for:
