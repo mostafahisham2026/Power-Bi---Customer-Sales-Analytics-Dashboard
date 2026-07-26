@@ -35,7 +35,7 @@ The dashboard helps management understand sales trends, customer profitability, 
 - Customer performance evaluation.
 - Interactive tooltips for additional insights.
 
-![2.Customer-Details (Drill-through-Analysis](2.Customer-Details-(Drill-through-Analysis).jpg)
+![2.Customer-Details-(Drill-through-Analysis](2.Customer-Details-(Drill-through-Analysis).jpg)
 
 - Detailed customer-level analysis.
 - Drill-through functionality from customer analysis page.
