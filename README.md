@@ -95,20 +95,20 @@ Included:
 
 ### Customer Sales Analysis
 
-![Customer Sales Analysis](Customer%20Sales%20Analysis.jpg)
+![1.Customer Sales Analysis](1.Customer%20Sales%20Analysis.jpg)
 
 ### Customer Details
 
-![Customer Details](Customer%20Details.jpg)
+![2.Customer Details](2.Customer%20Details.jpg)
 
 
 ### Salesperson Details
 
-![SalesPerson Details](SalesPerson%20Details.jpg)
+![3.SalesPerson Details](3.SalesPerson%20Details.jpg)
 
 ### Advanced KPI Dashboard
 
-![Advanced KPI Dashboard](Advanced%20KPIs%20Dashboard.jpg)
+![4.Advanced KPI Dashboard](4.Advanced%20KPIs%20Dashboard.jpg)
 
 # 🎬 Project Demo Video
 
